@@ -3,7 +3,7 @@
 
 ## ¿Qué es MarkDown?
 
-Markdown es un lenguaje de marcado ligero que se utiliza para formatear texto. Fue creado por John Gruber en 2004 y desde entonces se ha convertido en una herramienta popular para crear documentos estructurados como archivos README, documentación técnica y presentaciones. Markdown le permite agregar formato a su texto, como encabezados, texto en negrita y cursiva, listas y enlaces, sin necesidad de usar HTML u otros lenguajes de marcado complejos. Markdown se puede convertir fácilmente a HTML, lo que lo convierte en una excelente herramienta para compartir documentos en la web.
+Markdown es 
 
 [📂](./Ejemplo/README.md) Ejemplo de un Repositorio en MarkDown 
 
