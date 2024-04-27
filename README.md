@@ -3,7 +3,7 @@
 
 ## ¿Qué es MarkDown?
 
- Markdown es ///////
+ Markdown es Disciplina científica que se ocupa de crear programas informáticos que ejecutan operaciones comparables a las que realiza la mente humana, como el aprendizaje o el razonamiento lógico. 
 
 [📂](./Ejemplo/README.md) Ejemplo de un Repositorio en MarkDown 
 
