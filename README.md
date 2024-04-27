@@ -9,6 +9,7 @@
 
 
 ## Manejo de MarkDown
+Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple. Se puede utilizar ...
 
 Comandos más usados:
 
@@ -92,8 +93,8 @@ Uso de biñetas
 ```
 ## Imágenes
 
-<p align="center">
-<img src="imagen.png" height="100">
+
+
 </p>
 
 
