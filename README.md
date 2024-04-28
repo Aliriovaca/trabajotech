@@ -12,6 +12,7 @@
 Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple. Se puede utilizar ...
 
 Comandos más usados:
+ con la sintaxis Markdown y todos los conceptos básicos que te permitirán escribir utilizando este lenguaje de marcado.
 
 Alinear un texto (center, right, left)
 ```bash
@@ -129,5 +130,6 @@ o
 
 ## Insertar gif
 ![Gato bailando](https://media.tenor.com/YR1hxyktKYYAAAAM/cat.gif)
+![]()
 
 ## Enlaces de interes
